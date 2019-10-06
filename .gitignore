@@ -1,0 +1,5 @@
+config.php
+templates_c/*.php
+site/backups/*
+icons/*
+!.htaccess
